@@ -1,0 +1,1 @@
+web: gunicorn json_load.wsgi
