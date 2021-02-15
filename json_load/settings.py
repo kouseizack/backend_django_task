@@ -25,7 +25,7 @@ SECRET_KEY = '5e0ee=4eww6x=_5(5(*vjv6pjj9!*h5#!xwrw1fts!mb9^rs!e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['json7api.herokuapp.com/', '127.0.0.1' , '0.0.0.0']
+ALLOWED_HOSTS = ['json7api.herokuapp.com', '127.0.0.1' , '0.0.0.0']
 
 
 # Application definition
